@@ -42,4 +42,4 @@ Este projeto foi desenvolvido como parte de um desafio de programação para cri
 
 ### 👥 Autor
 
-  * **Seu Nome ou Usuário do GitHub** - [Seu Perfil](https://github.com/joaohena)
+  * **João Henrique A. Fernandes** - [github](https://github.com/joaohena)
